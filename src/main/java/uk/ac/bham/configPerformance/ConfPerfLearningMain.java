@@ -26,10 +26,10 @@ public class ConfPerfLearningMain {
             System.out.println("Using dataset from folder: " + data.relationName());
 
             // 4. Train the performance model using the selected dataset
-            ConfPerfModel confPerfModel = new ConfPerfModel();
+            double bestRidge = RandomSearchTuner.tuneRidgeParameter(data, 30, 10, 1L, 1.0E-8, 10.0); // In your main method (in ConfPerfLearningMain.java, for example)
+            ConfPerfModel confPerfModel = new ConfPerfModel(bestRidge);
             confPerfModel.train(data);
             System.out.println("Trained Linear Regression Model:");
-            System.out.println(confPerfModel.getModel());
 
             // 5. Evaluate the model using 10-fold cross-validation
             Evaluation eval = CrossValidator.performCrossValidation(confPerfModel.getModel(), data, 10, 1);

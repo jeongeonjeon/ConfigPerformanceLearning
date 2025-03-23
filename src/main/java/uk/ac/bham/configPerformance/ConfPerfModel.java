@@ -4,15 +4,27 @@ import weka.core.Instances;
 import weka.classifiers.functions.LinearRegression;
 
 /**
- * Class for training and predicting configuration performance using a Linear Regression model.
+ * Class for training and predicting configuration performance using a Linear Regression model
+ * Change to a Ridge Regression model
  */
 public class ConfPerfModel {
 
 	private LinearRegression model;
+	private double ridgeParameter;
 
-	public ConfPerfModel() {
-		model = new LinearRegression();
-	}
+	// Default constructor: uses a small default ridge parameter
+//	public ConfPerfModel() {
+//		//model = new LinearRegression();
+//		this(100);
+//	}
+	
+	// Constructor that allows setting a custom ridge parameter
+    public ConfPerfModel(double ridgeParameter) {
+        this.ridgeParameter = ridgeParameter;
+        model = new LinearRegression();
+        // Set the ridge parameter to enable L2 regularization
+        model.setRidge(ridgeParameter);
+    }
 
 	// Train the model with the given dataset.
 	public void train(Instances data) throws Exception {
@@ -35,7 +47,7 @@ public class ConfPerfModel {
 	}
 
 	// Returns the trained Linear Regression model.
-	public LinearRegression getModel() {
+	public LinearRegression getModel() {    	
 		return model;
 	}
 }

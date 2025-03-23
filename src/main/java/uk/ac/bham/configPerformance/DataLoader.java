@@ -44,8 +44,7 @@ public class DataLoader {
 					}
 
 					datasets.add(data);
-					System.out.println(
-							"Loaded dataset: " + csvFile.getName() + " with " + data.numInstances() + " instances.");
+					//System.out.println("Loaded dataset: " + csvFile.getName() + " with " + data.numInstances() + " instances.");
 				} catch (Exception ex) {
 					System.out.println("Failed to load dataset from file: " + csvFile.getName());
 					ex.printStackTrace();
