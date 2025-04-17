@@ -1,0 +1,654 @@
+
+Total number of datasets loaded: 93
+1. System: corona-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: corona-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.181010 | Avg RMSE = 0.261793 | Avg MAPE = 0.121315
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.181010 | Avg RMSE = 0.261793 | Avg MAPE = 0.121315
+[Baseline] Ridge = 1.0 | Avg MAE = 0.180935 | Avg RMSE = 0.261796 | Avg MAPE = 0.121248
+[Baseline] Ridge = 10 | Avg MAE = 0.180282 | Avg RMSE = 0.261844 | Avg MAPE = 0.120663
+[Tuned] Best Ridge = 2.499615 | Avg MAE = 0.180822 | Avg RMSE = 0.261803 | Avg MAPE = 0.121147
+
+2. System: cranium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: cranium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.070509 | Avg RMSE = 0.097622 | Avg MAPE = 0.033653
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.070509 | Avg RMSE = 0.097622 | Avg MAPE = 0.033653
+[Baseline] Ridge = 1.0 | Avg MAE = 0.070534 | Avg RMSE = 0.097616 | Avg MAPE = 0.033667
+[Baseline] Ridge = 10 | Avg MAE = 0.070799 | Avg RMSE = 0.097608 | Avg MAPE = 0.033817
+[Tuned] Best Ridge = 0.354677 | Avg MAE = 0.070518 | Avg RMSE = 0.097620 | Avg MAPE = 0.033657
+
+3. System: cubus-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: cubus-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.246012 | Avg RMSE = 0.336148 | Avg MAPE = 0.039864
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.246012 | Avg RMSE = 0.336148 | Avg MAPE = 0.039864
+[Baseline] Ridge = 1.0 | Avg MAE = 0.246084 | Avg RMSE = 0.336134 | Avg MAPE = 0.039877
+[Baseline] Ridge = 10 | Avg MAE = 0.246845 | Avg RMSE = 0.336092 | Avg MAPE = 0.040017
+[Tuned] Best Ridge = 0.000000 | Avg MAE = 0.246012 | Avg RMSE = 0.336148 | Avg MAPE = 0.039864
+
+4. System: flame-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: flame-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.058878 | Avg RMSE = 0.078107 | Avg MAPE = 0.032683
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.058878 | Avg RMSE = 0.078107 | Avg MAPE = 0.032683
+[Baseline] Ridge = 1.0 | Avg MAE = 0.058880 | Avg RMSE = 0.078107 | Avg MAPE = 0.032685
+[Baseline] Ridge = 10 | Avg MAE = 0.058924 | Avg RMSE = 0.078142 | Avg MAPE = 0.032723
+[Tuned] Best Ridge = 0.198207 | Avg MAE = 0.058879 | Avg RMSE = 0.078107 | Avg MAPE = 0.032683
+
+5. System: france-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: france-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.147822 | Avg RMSE = 0.194216 | Avg MAPE = 0.040291
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.147822 | Avg RMSE = 0.194216 | Avg MAPE = 0.040291
+[Baseline] Ridge = 1.0 | Avg MAE = 0.147901 | Avg RMSE = 0.194209 | Avg MAPE = 0.040319
+[Baseline] Ridge = 10 | Avg MAE = 0.148643 | Avg RMSE = 0.194231 | Avg MAPE = 0.040581
+[Tuned] Best Ridge = 0.340309 | Avg MAE = 0.147849 | Avg RMSE = 0.194213 | Avg MAPE = 0.040301
+
+6. System: frisco-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: frisco-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.243984 | Avg RMSE = 0.329098 | Avg MAPE = 0.050088
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.243984 | Avg RMSE = 0.329098 | Avg MAPE = 0.050088
+[Baseline] Ridge = 1.0 | Avg MAE = 0.243913 | Avg RMSE = 0.329101 | Avg MAPE = 0.050070
+[Baseline] Ridge = 10 | Avg MAE = 0.243341 | Avg RMSE = 0.329167 | Avg MAPE = 0.049917
+[Tuned] Best Ridge = 0.000000 | Avg MAE = 0.243984 | Avg RMSE = 0.329098 | Avg MAPE = 0.050088
+
+7. System: jelly-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: jelly-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.323366 | Avg RMSE = 0.447829 | Avg MAPE = 0.168621
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.323366 | Avg RMSE = 0.447829 | Avg MAPE = 0.168621
+[Baseline] Ridge = 1.0 | Avg MAE = 0.323179 | Avg RMSE = 0.447837 | Avg MAPE = 0.168476
+[Baseline] Ridge = 10 | Avg MAE = 0.321515 | Avg RMSE = 0.447923 | Avg MAPE = 0.167175
+[Tuned] Best Ridge = 5.934874 | Avg MAE = 0.322264 | Avg RMSE = 0.447882 | Avg MAPE = 0.167760
+
+8. System: karte-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: karte-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1.500001 | Avg RMSE = 1.866854 | Avg MAPE = 0.151402
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1.500001 | Avg RMSE = 1.866854 | Avg MAPE = 0.151402
+[Baseline] Ridge = 1.0 | Avg MAE = 1.500794 | Avg RMSE = 1.866861 | Avg MAPE = 0.151450
+[Baseline] Ridge = 10 | Avg MAE = 1.507876 | Avg RMSE = 1.867091 | Avg MAPE = 0.151876
+[Tuned] Best Ridge = 2.499615 | Avg MAE = 1.501981 | Avg RMSE = 1.866879 | Avg MAPE = 0.151521
+
+9. System: mandelbrot-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: mandelbrot-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.061927 | Avg RMSE = 0.084878 | Avg MAPE = 0.046765
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.061927 | Avg RMSE = 0.084878 | Avg MAPE = 0.046765
+[Baseline] Ridge = 1.0 | Avg MAE = 0.061922 | Avg RMSE = 0.084878 | Avg MAPE = 0.046759
+[Baseline] Ridge = 10 | Avg MAE = 0.061878 | Avg RMSE = 0.084881 | Avg MAPE = 0.046708
+[Tuned] Best Ridge = 4.131135 | Avg MAE = 0.061906 | Avg RMSE = 0.084878 | Avg MAPE = 0.046741
+
+10. System: strawberry-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: strawberry-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.094764 | Avg RMSE = 0.132030 | Avg MAPE = 0.054885
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.094764 | Avg RMSE = 0.132030 | Avg MAPE = 0.054885
+[Baseline] Ridge = 1.0 | Avg MAE = 0.094733 | Avg RMSE = 0.132032 | Avg MAPE = 0.054861
+[Baseline] Ridge = 10 | Avg MAE = 0.094477 | Avg RMSE = 0.132066 | Avg MAPE = 0.054660
+[Tuned] Best Ridge = 0.000000 | Avg MAE = 0.094764 | Avg RMSE = 0.132030 | Avg MAPE = 0.054885
+
+11. System: village-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: village-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1.800798 | Avg RMSE = 2.504589 | Avg MAPE = 0.565108
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1.800798 | Avg RMSE = 2.504589 | Avg MAPE = 0.565108
+[Baseline] Ridge = 1.0 | Avg MAE = 1.799882 | Avg RMSE = 2.504652 | Avg MAPE = 0.564628
+[Baseline] Ridge = 10 | Avg MAE = 1.791695 | Avg RMSE = 2.505264 | Avg MAPE = 0.560332
+[Tuned] Best Ridge = 5.934874 | Avg MAE = 1.795380 | Avg RMSE = 2.504977 | Avg MAPE = 0.562266
+
+12. System: jpeg-large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: jpeg-large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.415863 | Avg RMSE = 0.564167 | Avg MAPE = 0.134834
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.415863 | Avg RMSE = 0.564167 | Avg MAPE = 0.134834
+[Baseline] Ridge = 1.0 | Avg MAE = 0.415806 | Avg RMSE = 0.564165 | Avg MAPE = 0.134806
+[Baseline] Ridge = 10 | Avg MAE = 0.415295 | Avg RMSE = 0.564150 | Avg MAPE = 0.134557
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.415717 | Avg RMSE = 0.564162 | Avg MAPE = 0.134763
+
+13. System: jpeg-medium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: jpeg-medium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.176978 | Avg RMSE = 0.240659 | Avg MAPE = 0.101966
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.176978 | Avg RMSE = 0.240659 | Avg MAPE = 0.101966
+[Baseline] Ridge = 1.0 | Avg MAE = 0.176953 | Avg RMSE = 0.240658 | Avg MAPE = 0.101945
+[Baseline] Ridge = 10 | Avg MAE = 0.176731 | Avg RMSE = 0.240652 | Avg MAPE = 0.101761
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.176914 | Avg RMSE = 0.240657 | Avg MAPE = 0.101913
+
+14. System: jpeg-small-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: jpeg-small-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.015000 | Avg RMSE = 0.019134 | Avg MAPE = 0.035032
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.015000 | Avg RMSE = 0.019134 | Avg MAPE = 0.035032
+[Baseline] Ridge = 1.0 | Avg MAE = 0.015000 | Avg RMSE = 0.019134 | Avg MAPE = 0.035032
+[Baseline] Ridge = 10 | Avg MAE = 0.015001 | Avg RMSE = 0.019133 | Avg MAPE = 0.035035
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.015000 | Avg RMSE = 0.019133 | Avg MAPE = 0.035033
+
+15. System: png-large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: png-large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.218013 | Avg RMSE = 0.281520 | Avg MAPE = 0.091963
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.218013 | Avg RMSE = 0.281520 | Avg MAPE = 0.091963
+[Baseline] Ridge = 1.0 | Avg MAE = 0.217994 | Avg RMSE = 0.281521 | Avg MAPE = 0.091949
+[Baseline] Ridge = 10 | Avg MAE = 0.217824 | Avg RMSE = 0.281533 | Avg MAPE = 0.091824
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.217965 | Avg RMSE = 0.281523 | Avg MAPE = 0.091927
+
+16. System: png-medium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: png-medium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.023281 | Avg RMSE = 0.029541 | Avg MAPE = 0.035768
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.023281 | Avg RMSE = 0.029541 | Avg MAPE = 0.035768
+[Baseline] Ridge = 1.0 | Avg MAE = 0.023281 | Avg RMSE = 0.029542 | Avg MAPE = 0.035766
+[Baseline] Ridge = 10 | Avg MAE = 0.023274 | Avg RMSE = 0.029544 | Avg MAPE = 0.035749
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.023279 | Avg RMSE = 0.029542 | Avg MAPE = 0.035763
+
+17. System: png-small-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: png-small-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.014777 | Avg RMSE = 0.019585 | Avg MAPE = 0.032834
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.014777 | Avg RMSE = 0.019585 | Avg MAPE = 0.032834
+[Baseline] Ridge = 1.0 | Avg MAE = 0.014777 | Avg RMSE = 0.019585 | Avg MAPE = 0.032834
+[Baseline] Ridge = 10 | Avg MAE = 0.014776 | Avg RMSE = 0.019585 | Avg MAPE = 0.032834
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.014777 | Avg RMSE = 0.019585 | Avg MAPE = 0.032834
+
+18. System: psd-large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: psd-large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.536911 | Avg RMSE = 0.878533 | Avg MAPE = 0.014362
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.536911 | Avg RMSE = 0.878533 | Avg MAPE = 0.014362
+[Baseline] Ridge = 1.0 | Avg MAE = 0.536791 | Avg RMSE = 0.878555 | Avg MAPE = 0.014367
+[Baseline] Ridge = 10 | Avg MAE = 0.535963 | Avg RMSE = 0.879022 | Avg MAPE = 0.014421
+[Tuned] Best Ridge = 0.340718 | Avg MAE = 0.536869 | Avg RMSE = 0.878540 | Avg MAPE = 0.014364
+
+19. System: psd-medium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: psd-medium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.067527 | Avg RMSE = 0.090486 | Avg MAPE = 0.051874
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.067527 | Avg RMSE = 0.090486 | Avg MAPE = 0.051874
+[Baseline] Ridge = 1.0 | Avg MAE = 0.067522 | Avg RMSE = 0.090486 | Avg MAPE = 0.051868
+[Baseline] Ridge = 10 | Avg MAE = 0.067476 | Avg RMSE = 0.090487 | Avg MAPE = 0.051818
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.067514 | Avg RMSE = 0.090486 | Avg MAPE = 0.051860
+
+20. System: psd-small-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: psd-small-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.019930 | Avg RMSE = 0.024771 | Avg MAPE = 0.035666
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.019930 | Avg RMSE = 0.024771 | Avg MAPE = 0.035666
+[Baseline] Ridge = 1.0 | Avg MAE = 0.019931 | Avg RMSE = 0.024771 | Avg MAPE = 0.035666
+[Baseline] Ridge = 10 | Avg MAE = 0.019933 | Avg RMSE = 0.024772 | Avg MAPE = 0.035670
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.019931 | Avg RMSE = 0.024771 | Avg MAPE = 0.035667
+
+21. System: svg-large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: svg-large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.030232 | Avg RMSE = 0.038707 | Avg MAPE = 0.020059
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.030232 | Avg RMSE = 0.038707 | Avg MAPE = 0.020059
+[Baseline] Ridge = 1.0 | Avg MAE = 0.030232 | Avg RMSE = 0.038707 | Avg MAPE = 0.020059
+[Baseline] Ridge = 10 | Avg MAE = 0.030232 | Avg RMSE = 0.038707 | Avg MAPE = 0.020059
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.030232 | Avg RMSE = 0.038707 | Avg MAPE = 0.020059
+
+22. System: svg-medium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: svg-medium-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.026365 | Avg RMSE = 0.033044 | Avg MAPE = 0.017134
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.026365 | Avg RMSE = 0.033044 | Avg MAPE = 0.017134
+[Baseline] Ridge = 1.0 | Avg MAE = 0.026365 | Avg RMSE = 0.033044 | Avg MAPE = 0.017134
+[Baseline] Ridge = 10 | Avg MAE = 0.026365 | Avg RMSE = 0.033044 | Avg MAPE = 0.017133
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.026365 | Avg RMSE = 0.033044 | Avg MAPE = 0.017133
+
+23. System: svg-small-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: svg-small-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.020365 | Avg RMSE = 0.025455 | Avg MAPE = 0.036147
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.020365 | Avg RMSE = 0.025455 | Avg MAPE = 0.036147
+[Baseline] Ridge = 1.0 | Avg MAE = 0.020365 | Avg RMSE = 0.025454 | Avg MAPE = 0.036148
+[Baseline] Ridge = 10 | Avg MAE = 0.020371 | Avg RMSE = 0.025454 | Avg MAPE = 0.036160
+[Tuned] Best Ridge = 2.554043 | Avg MAE = 0.020366 | Avg RMSE = 0.025454 | Avg MAPE = 0.036150
+
+24. System: smallbank-1-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: smallbank-1-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1115.960272 | Avg RMSE = 1332.087585 | Avg MAPE = 0.056937
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1115.960271 | Avg RMSE = 1332.087584 | Avg MAPE = 0.056937
+[Baseline] Ridge = 1.0 | Avg MAE = 1115.843997 | Avg RMSE = 1331.945877 | Avg MAPE = 0.056925
+[Baseline] Ridge = 10 | Avg MAE = 1115.329175 | Avg RMSE = 1331.232530 | Avg MAPE = 0.056839
+[Tuned] Best Ridge = 4.050736 | Avg MAE = 1115.855480 | Avg RMSE = 1331.932313 | Avg MAPE = 0.056901
+
+25. System: smallbank-10-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: smallbank-10-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 627.718188 | Avg RMSE = 763.121284 | Avg MAPE = 0.046027
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 627.718187 | Avg RMSE = 763.121283 | Avg MAPE = 0.046027
+[Baseline] Ridge = 1.0 | Avg MAE = 627.593122 | Avg RMSE = 763.028490 | Avg MAPE = 0.046009
+[Baseline] Ridge = 10 | Avg MAE = 626.655648 | Avg RMSE = 762.494436 | Avg MAPE = 0.045858
+[Tuned] Best Ridge = 1.129795 | Avg MAE = 627.577115 | Avg RMSE = 763.016956 | Avg MAPE = 0.046007
+
+26. System: tpcc-2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: tpcc-2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 30.745731 | Avg RMSE = 37.973879 | Avg MAPE = 0.042077
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 30.745731 | Avg RMSE = 37.973879 | Avg MAPE = 0.042077
+[Baseline] Ridge = 1.0 | Avg MAE = 30.741363 | Avg RMSE = 37.971795 | Avg MAPE = 0.042068
+[Baseline] Ridge = 10 | Avg MAE = 30.699155 | Avg RMSE = 37.967400 | Avg MAPE = 0.041974
+[Tuned] Best Ridge = 4.050736 | Avg MAE = 30.729219 | Avg RMSE = 37.966223 | Avg MAPE = 0.042040
+
+27. System: tpcc-8-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: tpcc-8-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 109.534200 | Avg RMSE = 164.298660 | Avg MAPE = 0.211193
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 109.534199 | Avg RMSE = 164.298660 | Avg MAPE = 0.211193
+[Baseline] Ridge = 1.0 | Avg MAE = 109.531258 | Avg RMSE = 164.295571 | Avg MAPE = 0.211173
+[Baseline] Ridge = 10 | Avg MAE = 109.506557 | Avg RMSE = 164.268601 | Avg MAPE = 0.210993
+[Tuned] Best Ridge = 4.050736 | Avg MAE = 109.522421 | Avg RMSE = 164.286262 | Avg MAPE = 0.211111
+
+28. System: voter-16-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: voter-16-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 2410.742059 | Avg RMSE = 2683.857038 | Avg MAPE = 0.076154
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 2410.742057 | Avg RMSE = 2683.857036 | Avg MAPE = 0.076154
+[Baseline] Ridge = 1.0 | Avg MAE = 2410.624792 | Avg RMSE = 2683.673594 | Avg MAPE = 0.076118
+[Baseline] Ridge = 10 | Avg MAE = 2409.643312 | Avg RMSE = 2682.930348 | Avg MAPE = 0.075802
+[Tuned] Best Ridge = 1.129795 | Avg MAE = 2410.609771 | Avg RMSE = 2683.651317 | Avg MAPE = 0.076114
+
+29. System: voter-2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: voter-2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 2529.362187 | Avg RMSE = 2812.060003 | Avg MAPE = 0.080259
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 2529.362187 | Avg RMSE = 2812.060001 | Avg MAPE = 0.080259
+[Baseline] Ridge = 1.0 | Avg MAE = 2529.391278 | Avg RMSE = 2811.896922 | Avg MAPE = 0.080228
+[Baseline] Ridge = 10 | Avg MAE = 2529.573526 | Avg RMSE = 2811.325785 | Avg MAPE = 0.079948
+[Tuned] Best Ridge = 1.129795 | Avg MAE = 2529.394920 | Avg RMSE = 2811.877270 | Avg MAPE = 0.080224
+
+30. System: ycsb-2400-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: ycsb-2400-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1279.991565 | Avg RMSE = 1577.392079 | Avg MAPE = 0.091324
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1279.991563 | Avg RMSE = 1577.392079 | Avg MAPE = 0.091324
+[Baseline] Ridge = 1.0 | Avg MAE = 1279.845995 | Avg RMSE = 1577.358549 | Avg MAPE = 0.091312
+[Baseline] Ridge = 10 | Avg MAE = 1278.560147 | Avg RMSE = 1577.098024 | Avg MAPE = 0.091212
+[Tuned] Best Ridge = 4.050736 | Avg MAE = 1279.404317 | Avg RMSE = 1577.262005 | Avg MAPE = 0.091278
+
+31. System: ycsb-600-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: ycsb-600-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1672.375247 | Avg RMSE = 2059.014738 | Avg MAPE = 0.084411
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1672.375246 | Avg RMSE = 2059.014739 | Avg MAPE = 0.084411
+[Baseline] Ridge = 1.0 | Avg MAE = 1672.335232 | Avg RMSE = 2059.084135 | Avg MAPE = 0.084415
+[Baseline] Ridge = 10 | Avg MAE = 1671.985472 | Avg RMSE = 2059.762846 | Avg MAPE = 0.084452
+[Tuned] Best Ridge = 4.050736 | Avg MAE = 1672.215227 | Avg RMSE = 2059.303373 | Avg MAPE = 0.084427
+
+32. System: beethoven.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: beethoven.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 2.269644 | Avg RMSE = 2.902035 | Avg MAPE = 0.259199
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 2.269644 | Avg RMSE = 2.902035 | Avg MAPE = 0.259199
+[Baseline] Ridge = 1.0 | Avg MAE = 2.269596 | Avg RMSE = 2.902037 | Avg MAPE = 0.259186
+[Baseline] Ridge = 10 | Avg MAE = 2.269210 | Avg RMSE = 2.902085 | Avg MAPE = 0.259079
+[Tuned] Best Ridge = 5.267520 | Avg MAE = 2.269395 | Avg RMSE = 2.902051 | Avg MAPE = 0.259130
+
+33. System: dual-channel.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: dual-channel.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.615214 | Avg RMSE = 0.844587 | Avg MAPE = 0.236479
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.615214 | Avg RMSE = 0.844587 | Avg MAPE = 0.236479
+[Baseline] Ridge = 1.0 | Avg MAE = 0.615191 | Avg RMSE = 0.844582 | Avg MAPE = 0.236448
+[Baseline] Ridge = 10 | Avg MAE = 0.614995 | Avg RMSE = 0.844555 | Avg MAPE = 0.236190
+[Tuned] Best Ridge = 5.267520 | Avg MAE = 0.615093 | Avg RMSE = 0.844567 | Avg MAPE = 0.236322
+
+34. System: helix.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: helix.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1.111956 | Avg RMSE = 1.540129 | Avg MAPE = 0.257960
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1.111956 | Avg RMSE = 1.540129 | Avg MAPE = 0.257960
+[Baseline] Ridge = 1.0 | Avg MAE = 1.111919 | Avg RMSE = 1.540127 | Avg MAPE = 0.257920
+[Baseline] Ridge = 10 | Avg MAE = 1.111595 | Avg RMSE = 1.540126 | Avg MAPE = 0.257558
+[Tuned] Best Ridge = 0.000000 | Avg MAE = 1.111956 | Avg RMSE = 1.540129 | Avg MAPE = 0.257960
+
+35. System: single-channel.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: single-channel.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.331897 | Avg RMSE = 0.435385 | Avg MAPE = 0.194303
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.331897 | Avg RMSE = 0.435385 | Avg MAPE = 0.194303
+[Baseline] Ridge = 1.0 | Avg MAE = 0.331886 | Avg RMSE = 0.435384 | Avg MAPE = 0.194292
+[Baseline] Ridge = 10 | Avg MAE = 0.331798 | Avg RMSE = 0.435379 | Avg MAPE = 0.194200
+[Tuned] Best Ridge = 1.613044 | Avg MAE = 0.331879 | Avg RMSE = 0.435383 | Avg MAPE = 0.194285
+
+36. System: speech.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: speech.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.822939 | Avg RMSE = 1.038777 | Avg MAPE = 0.202997
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.822939 | Avg RMSE = 1.038777 | Avg MAPE = 0.202997
+[Baseline] Ridge = 1.0 | Avg MAE = 0.822915 | Avg RMSE = 1.038775 | Avg MAPE = 0.202990
+[Baseline] Ridge = 10 | Avg MAE = 0.822731 | Avg RMSE = 1.038792 | Avg MAPE = 0.202939
+[Tuned] Best Ridge = 5.267520 | Avg MAE = 0.822820 | Avg RMSE = 1.038776 | Avg MAPE = 0.202961
+
+37. System: sweep.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: sweep.wav-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.070068 | Avg RMSE = 0.088783 | Avg MAPE = 0.121004
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.070068 | Avg RMSE = 0.088783 | Avg MAPE = 0.121004
+[Baseline] Ridge = 1.0 | Avg MAE = 0.070066 | Avg RMSE = 0.088782 | Avg MAPE = 0.120993
+[Baseline] Ridge = 10 | Avg MAE = 0.070052 | Avg RMSE = 0.088778 | Avg MAPE = 0.120893
+[Tuned] Best Ridge = 1.613044 | Avg MAE = 0.070065 | Avg RMSE = 0.088782 | Avg MAPE = 0.120986
+
+38. System: ambivert-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: ambivert-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 17.304382 | Avg RMSE = 27.932448 | Avg MAPE = 1.524939
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 17.304382 | Avg RMSE = 27.932448 | Avg MAPE = 1.524939
+[Baseline] Ridge = 1.0 | Avg MAE = 17.303015 | Avg RMSE = 27.932114 | Avg MAPE = 1.524923
+[Baseline] Ridge = 10 | Avg MAE = 17.290841 | Avg RMSE = 27.929207 | Avg MAPE = 1.524801
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 17.301225 | Avg RMSE = 27.931679 | Avg MAPE = 1.524903
+
+39. System: artificl-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: artificl-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.199916 | Avg RMSE = 0.289166 | Avg MAPE = 0.499935
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.199916 | Avg RMSE = 0.289166 | Avg MAPE = 0.499935
+[Baseline] Ridge = 1.0 | Avg MAE = 0.199903 | Avg RMSE = 0.289162 | Avg MAPE = 0.499893
+[Baseline] Ridge = 10 | Avg MAE = 0.199790 | Avg RMSE = 0.289123 | Avg MAPE = 0.499515
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 0.199887 | Avg RMSE = 0.289156 | Avg MAPE = 0.499838
+
+40. System: deepfield-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: deepfield-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 19.237538 | Avg RMSE = 29.242645 | Avg MAPE = 17.980044
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 19.237538 | Avg RMSE = 29.242645 | Avg MAPE = 17.980044
+[Baseline] Ridge = 1.0 | Avg MAE = 19.235890 | Avg RMSE = 29.242299 | Avg MAPE = 17.977865
+[Baseline] Ridge = 10 | Avg MAE = 19.221162 | Avg RMSE = 29.239290 | Avg MAPE = 17.958334
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 19.233735 | Avg RMSE = 29.241850 | Avg MAPE = 17.975011
+
+41. System: enwik8-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: enwik8-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 40.462164 | Avg RMSE = 62.944041 | Avg MAPE = 2.898386
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 40.462164 | Avg RMSE = 62.944041 | Avg MAPE = 2.898386
+[Baseline] Ridge = 1.0 | Avg MAE = 40.458577 | Avg RMSE = 62.943220 | Avg MAPE = 2.898044
+[Baseline] Ridge = 10 | Avg MAE = 40.426585 | Avg RMSE = 62.935987 | Avg MAPE = 2.895013
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 40.453886 | Avg RMSE = 62.942148 | Avg MAPE = 2.897599
+
+42. System: fannie, Dataset: fannie_mae_500k-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 35.582308 | Avg RMSE = 54.293639 | Avg MAPE = 4.516078
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 35.582308 | Avg RMSE = 54.293639 | Avg MAPE = 4.516078
+[Baseline] Ridge = 1.0 | Avg MAE = 35.579290 | Avg RMSE = 54.292986 | Avg MAPE = 4.515402
+[Baseline] Ridge = 10 | Avg MAE = 35.552390 | Avg RMSE = 54.287228 | Avg MAPE = 4.509408
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 35.575341 | Avg RMSE = 54.292134 | Avg MAPE = 4.514516
+
+43. System: large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: large-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 4.480617 | Avg RMSE = 6.940896 | Avg MAPE = 1.524893
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 4.480617 | Avg RMSE = 6.940896 | Avg MAPE = 1.524893
+[Baseline] Ridge = 1.0 | Avg MAE = 4.480210 | Avg RMSE = 6.940805 | Avg MAPE = 1.524635
+[Baseline] Ridge = 10 | Avg MAE = 4.476593 | Avg RMSE = 6.940007 | Avg MAPE = 1.522351
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 4.479679 | Avg RMSE = 6.940687 | Avg MAPE = 1.524299
+
+44. System: misc-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: misc-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.414028 | Avg RMSE = 0.614752 | Avg MAPE = 0.497091
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.414028 | Avg RMSE = 0.614752 | Avg MAPE = 0.497091
+[Baseline] Ridge = 1.0 | Avg MAE = 0.413996 | Avg RMSE = 0.614743 | Avg MAPE = 0.497052
+[Baseline] Ridge = 10 | Avg MAE = 0.413706 | Avg RMSE = 0.614662 | Avg MAPE = 0.496701
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 0.413953 | Avg RMSE = 0.614731 | Avg MAPE = 0.497000
+
+45. System: silesia-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: silesia-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 84.194090 | Avg RMSE = 130.700420 | Avg MAPE = 3.217641
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 84.194090 | Avg RMSE = 130.700420 | Avg MAPE = 3.217641
+[Baseline] Ridge = 1.0 | Avg MAE = 84.186753 | Avg RMSE = 130.698737 | Avg MAPE = 3.217259
+[Baseline] Ridge = 10 | Avg MAE = 84.121204 | Avg RMSE = 130.683919 | Avg MAPE = 3.213842
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 84.177147 | Avg RMSE = 130.696543 | Avg MAPE = 3.216758
+
+46. System: vmlinux-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: vmlinux-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 163.341950 | Avg RMSE = 223.402995 | Avg MAPE = 29.368950
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 163.341950 | Avg RMSE = 223.402995 | Avg MAPE = 29.368950
+[Baseline] Ridge = 1.0 | Avg MAE = 163.325627 | Avg RMSE = 223.402126 | Avg MAPE = 29.361917
+[Baseline] Ridge = 10 | Avg MAE = 163.180307 | Avg RMSE = 223.395231 | Avg MAPE = 29.299114
+[Tuned] Best Ridge = 2.310769 | Avg MAE = 163.304251 | Avg RMSE = 223.401018 | Avg MAPE = 29.352709
+
+47. System: ambivert.wav.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: ambivert.wav.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 15.087047 | Avg RMSE = 23.988348 | Avg MAPE = 1.552562
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 15.087046 | Avg RMSE = 23.988347 | Avg MAPE = 1.552562
+[Baseline] Ridge = 1.0 | Avg MAE = 15.070070 | Avg RMSE = 23.960714 | Avg MAPE = 1.550865
+[Baseline] Ridge = 10 | Avg MAE = 14.940586 | Avg RMSE = 23.755367 | Avg MAPE = 1.538091
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 14.942521 | Avg RMSE = 23.758609 | Avg MAPE = 1.538273
+
+48. System: artificl.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: artificl.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1.242238 | Avg RMSE = 1.360673 | Avg MAPE = 13.978618
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1.242239 | Avg RMSE = 1.360673 | Avg MAPE = 13.978619
+[Baseline] Ridge = 1.0 | Avg MAE = 1.243888 | Avg RMSE = 1.360517 | Avg MAPE = 14.000799
+[Baseline] Ridge = 10 | Avg MAE = 1.257686 | Avg RMSE = 1.359784 | Avg MAPE = 14.186464
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 1.257445 | Avg RMSE = 1.359788 | Avg MAPE = 14.183216
+
+49. System: deepfield.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: deepfield.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 14.953868 | Avg RMSE = 23.359245 | Avg MAPE = 1.580543
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 14.953868 | Avg RMSE = 23.359245 | Avg MAPE = 1.580543
+[Baseline] Ridge = 1.0 | Avg MAE = 14.931310 | Avg RMSE = 23.327276 | Avg MAPE = 1.577718
+[Baseline] Ridge = 10 | Avg MAE = 14.770104 | Avg RMSE = 23.086569 | Avg MAPE = 1.557538
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 14.772523 | Avg RMSE = 23.090416 | Avg MAPE = 1.557813
+
+50. System: enwik8.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: enwik8.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 21.125824 | Avg RMSE = 30.423907 | Avg MAPE = 1.116697
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 21.125824 | Avg RMSE = 30.423906 | Avg MAPE = 1.116697
+[Baseline] Ridge = 1.0 | Avg MAE = 21.101801 | Avg RMSE = 30.393704 | Avg MAPE = 1.114589
+[Baseline] Ridge = 10 | Avg MAE = 21.036634 | Avg RMSE = 30.314860 | Avg MAPE = 1.105199
+[Tuned] Best Ridge = 1.310134 | Avg MAE = 21.094500 | Avg RMSE = 30.384589 | Avg MAPE = 1.113947
+
+51. System: fannie, Dataset: fannie_mae_500k.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 5.706627 | Avg RMSE = 7.977516 | Avg MAPE = 0.130268
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 5.706627 | Avg RMSE = 7.977516 | Avg MAPE = 0.130268
+[Baseline] Ridge = 1.0 | Avg MAE = 5.698968 | Avg RMSE = 7.969265 | Avg MAPE = 0.130070
+[Baseline] Ridge = 10 | Avg MAE = 5.706351 | Avg RMSE = 7.955175 | Avg MAPE = 0.130208
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 5.707181 | Avg RMSE = 7.956003 | Avg MAPE = 0.130230
+
+52. System: large.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: large.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 2.444923 | Avg RMSE = 3.150694 | Avg MAPE = 1.055930
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 2.444923 | Avg RMSE = 3.150694 | Avg MAPE = 1.055930
+[Baseline] Ridge = 1.0 | Avg MAE = 2.374723 | Avg RMSE = 3.099226 | Avg MAPE = 1.033683
+[Baseline] Ridge = 10 | Avg MAE = 2.371132 | Avg RMSE = 3.093593 | Avg MAPE = 1.034623
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 2.371195 | Avg RMSE = 3.093685 | Avg MAPE = 1.034606
+
+53. System: misc.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: misc.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1.226255 | Avg RMSE = 1.353572 | Avg MAPE = 2.677811
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1.226255 | Avg RMSE = 1.353572 | Avg MAPE = 2.677811
+[Baseline] Ridge = 1.0 | Avg MAE = 1.227487 | Avg RMSE = 1.353635 | Avg MAPE = 2.682078
+[Baseline] Ridge = 10 | Avg MAE = 1.237804 | Avg RMSE = 1.354710 | Avg MAPE = 2.717818
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 1.237624 | Avg RMSE = 1.354682 | Avg MAPE = 2.717193
+
+54. System: silesia.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: silesia.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 35.515696 | Avg RMSE = 50.715596 | Avg MAPE = 1.292946
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 35.515696 | Avg RMSE = 50.715595 | Avg MAPE = 1.292946
+[Baseline] Ridge = 1.0 | Avg MAE = 35.470269 | Avg RMSE = 50.659884 | Avg MAPE = 1.290274
+[Baseline] Ridge = 10 | Avg MAE = 35.305885 | Avg RMSE = 50.454275 | Avg MAPE = 1.276500
+[Tuned] Best Ridge = 1.310134 | Avg MAE = 35.456449 | Avg RMSE = 50.643045 | Avg MAPE = 1.289460
+
+55. System: uiq-32.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: uiq-32.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 59.050210 | Avg RMSE = 83.271869 | Avg MAPE = 2.086582
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 59.050209 | Avg RMSE = 83.271869 | Avg MAPE = 2.086582
+[Baseline] Ridge = 1.0 | Avg MAE = 58.993020 | Avg RMSE = 83.195352 | Avg MAPE = 2.082843
+[Baseline] Ridge = 10 | Avg MAE = 58.512992 | Avg RMSE = 82.437544 | Avg MAPE = 2.065509
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 58.519968 | Avg RMSE = 82.444537 | Avg MAPE = 2.065967
+
+56. System: uiq2-16.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: uiq2-16.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 32.328154 | Avg RMSE = 46.525056 | Avg MAPE = 1.862708
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 32.328154 | Avg RMSE = 46.525056 | Avg MAPE = 1.862708
+[Baseline] Ridge = 1.0 | Avg MAE = 32.296655 | Avg RMSE = 46.476228 | Avg MAPE = 1.859962
+[Baseline] Ridge = 10 | Avg MAE = 32.064068 | Avg RMSE = 46.108401 | Avg MAPE = 1.839734
+[Tuned] Best Ridge = 1.310134 | Avg MAE = 32.287076 | Avg RMSE = 46.461467 | Avg MAPE = 1.859126
+
+57. System: uiq2-4.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: uiq2-4.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 7.672590 | Avg RMSE = 11.233535 | Avg MAPE = 1.290929
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 7.672590 | Avg RMSE = 11.233535 | Avg MAPE = 1.290929
+[Baseline] Ridge = 1.0 | Avg MAE = 7.662393 | Avg RMSE = 11.221564 | Avg MAPE = 1.289185
+[Baseline] Ridge = 10 | Avg MAE = 7.641689 | Avg RMSE = 11.189594 | Avg MAPE = 1.286985
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 7.642764 | Avg RMSE = 11.190873 | Avg MAPE = 1.287178
+
+58. System: uiq2-8.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: uiq2-8.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 15.815386 | Avg RMSE = 22.688773 | Avg MAPE = 1.504928
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 15.815386 | Avg RMSE = 22.688773 | Avg MAPE = 1.504928
+[Baseline] Ridge = 1.0 | Avg MAE = 15.800818 | Avg RMSE = 22.667281 | Avg MAPE = 1.503004
+[Baseline] Ridge = 10 | Avg MAE = 15.637920 | Avg RMSE = 22.417530 | Avg MAPE = 1.508631
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 15.639789 | Avg RMSE = 22.419648 | Avg MAPE = 1.508931
+
+59. System: vmlinux-5.10.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: vmlinux-5.10.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 5.068458 | Avg RMSE = 7.154540 | Avg MAPE = 0.849159
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 5.068458 | Avg RMSE = 7.154540 | Avg MAPE = 0.849159
+[Baseline] Ridge = 1.0 | Avg MAE = 5.062773 | Avg RMSE = 7.148757 | Avg MAPE = 0.848172
+[Baseline] Ridge = 10 | Avg MAE = 5.016939 | Avg RMSE = 7.103977 | Avg MAPE = 0.840259
+[Tuned] Best Ridge = 9.832204 | Avg MAE = 5.017715 | Avg RMSE = 7.104708 | Avg MAPE = 0.840393
+
+60. System: blue, Dataset: blue_sky_1080p25_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 3.095951 | Avg RMSE = 3.999953 | Avg MAPE = 0.760379
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 3.095951 | Avg RMSE = 3.999953 | Avg MAPE = 0.760379
+[Baseline] Ridge = 1.0 | Avg MAE = 3.095397 | Avg RMSE = 3.999676 | Avg MAPE = 0.759642
+[Baseline] Ridge = 10 | Avg MAE = 3.090575 | Avg RMSE = 3.997611 | Avg MAPE = 0.753092
+[Tuned] Best Ridge = 1.114762 | Avg MAE = 3.095333 | Avg RMSE = 3.999644 | Avg MAPE = 0.759558
+
+61. System: Johnny, Dataset: Johnny_1280x720_60_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 2.544591 | Avg RMSE = 3.320333 | Avg MAPE = 0.858238
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 2.544591 | Avg RMSE = 3.320333 | Avg MAPE = 0.858238
+[Baseline] Ridge = 1.0 | Avg MAE = 2.544094 | Avg RMSE = 3.320141 | Avg MAPE = 0.857420
+[Baseline] Ridge = 10 | Avg MAE = 2.539780 | Avg RMSE = 3.318734 | Avg MAPE = 0.850176
+[Tuned] Best Ridge = 8.001060 | Avg MAE = 2.540716 | Avg RMSE = 3.318998 | Avg MAPE = 0.851766
+
+62. System: Netflix, Dataset: Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 8.604105 | Avg RMSE = 11.105757 | Avg MAPE = 0.762029
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 8.604105 | Avg RMSE = 11.105756 | Avg MAPE = 0.762029
+[Baseline] Ridge = 1.0 | Avg MAE = 8.602447 | Avg RMSE = 11.104972 | Avg MAPE = 0.761289
+[Baseline] Ridge = 10 | Avg MAE = 8.588069 | Avg RMSE = 11.099133 | Avg MAPE = 0.754736
+[Tuned] Best Ridge = 8.001060 | Avg MAE = 8.591122 | Avg RMSE = 11.100242 | Avg MAPE = 0.756163
+
+63. System: pedestrian, Dataset: pedestrian_area_1080p25_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 3.516266 | Avg RMSE = 4.525786 | Avg MAPE = 0.693540
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 3.516266 | Avg RMSE = 4.525786 | Avg MAPE = 0.693540
+[Baseline] Ridge = 1.0 | Avg MAE = 3.515584 | Avg RMSE = 4.525429 | Avg MAPE = 0.692847
+[Baseline] Ridge = 10 | Avg MAE = 3.509506 | Avg RMSE = 4.522735 | Avg MAPE = 0.686664
+[Tuned] Best Ridge = 4.547831 | Avg MAE = 3.513174 | Avg RMSE = 4.524255 | Avg MAPE = 0.690396
+
+64. System: riverbed, Dataset: riverbed_1080p25_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 6.549325 | Avg RMSE = 8.607895 | Avg MAPE = 0.640825
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 6.549325 | Avg RMSE = 8.607895 | Avg MAPE = 0.640825
+[Baseline] Ridge = 1.0 | Avg MAE = 6.548086 | Avg RMSE = 8.607088 | Avg MAPE = 0.640203
+[Baseline] Ridge = 10 | Avg MAE = 6.537140 | Avg RMSE = 8.600792 | Avg MAPE = 0.634656
+[Tuned] Best Ridge = 1.864421 | Avg MAE = 6.547016 | Avg RMSE = 8.606408 | Avg MAPE = 0.639665
+
+65. System: sd, Dataset: sd_bridge_close_cif_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.140575 | Avg RMSE = 0.178919 | Avg MAPE = 0.516392
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.140575 | Avg RMSE = 0.178919 | Avg MAPE = 0.516392
+[Baseline] Ridge = 1.0 | Avg MAE = 0.140546 | Avg RMSE = 0.178902 | Avg MAPE = 0.515918
+[Baseline] Ridge = 10 | Avg MAE = 0.140291 | Avg RMSE = 0.178774 | Avg MAPE = 0.511712
+[Tuned] Best Ridge = 4.547831 | Avg MAE = 0.140443 | Avg RMSE = 0.178847 | Avg MAPE = 0.514244
+
+66. System: sd, Dataset: sd_city_4cif_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1.455871 | Avg RMSE = 1.865428 | Avg MAPE = 0.801862
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1.455871 | Avg RMSE = 1.865428 | Avg MAPE = 0.801862
+[Baseline] Ridge = 1.0 | Avg MAE = 1.455624 | Avg RMSE = 1.865313 | Avg MAPE = 0.801109
+[Baseline] Ridge = 10 | Avg MAE = 1.453477 | Avg RMSE = 1.864469 | Avg MAPE = 0.794399
+[Tuned] Best Ridge = 4.547831 | Avg MAE = 1.454759 | Avg RMSE = 1.864941 | Avg MAPE = 0.798444
+
+67. System: sd, Dataset: sd_crew_cif_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.241768 | Avg RMSE = 0.311402 | Avg MAPE = 0.606159
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.241768 | Avg RMSE = 0.311402 | Avg MAPE = 0.606159
+[Baseline] Ridge = 1.0 | Avg MAE = 0.241727 | Avg RMSE = 0.311376 | Avg MAPE = 0.605600
+[Baseline] Ridge = 10 | Avg MAE = 0.241368 | Avg RMSE = 0.311184 | Avg MAPE = 0.600631
+[Tuned] Best Ridge = 1.864421 | Avg MAE = 0.241692 | Avg RMSE = 0.311355 | Avg MAPE = 0.605117
+
+68. System: sintel, Dataset: sintel_trailer_2k_720p24_short.y4m-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.368039 | Avg RMSE = 0.462616 | Avg MAPE = 0.505118
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.368039 | Avg RMSE = 0.462616 | Avg MAPE = 0.505118
+[Baseline] Ridge = 1.0 | Avg MAE = 0.367987 | Avg RMSE = 0.462583 | Avg MAPE = 0.504641
+[Baseline] Ridge = 10 | Avg MAE = 0.367543 | Avg RMSE = 0.462360 | Avg MAPE = 0.500434
+[Tuned] Best Ridge = 0.295782 | Avg MAE = 0.368023 | Avg RMSE = 0.462606 | Avg MAPE = 0.504977
+
+69. System: ambivert.wav.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: ambivert.wav.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 13.289626 | Avg RMSE = 17.171698 | Avg MAPE = 1.369745
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 13.289626 | Avg RMSE = 17.171698 | Avg MAPE = 1.369745
+[Baseline] Ridge = 1.0 | Avg MAE = 13.289665 | Avg RMSE = 17.171621 | Avg MAPE = 1.369205
+[Baseline] Ridge = 10 | Avg MAE = 13.290128 | Avg RMSE = 17.171360 | Avg MAPE = 1.364372
+[Tuned] Best Ridge = 4.495501 | Avg MAE = 13.289842 | Avg RMSE = 17.171429 | Avg MAPE = 1.367321
+
+70. System: artificl.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: artificl.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.006338 | Avg RMSE = 0.007566 | Avg MAPE = 0.280226
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.006338 | Avg RMSE = 0.007566 | Avg MAPE = 0.280226
+[Baseline] Ridge = 1.0 | Avg MAE = 0.006338 | Avg RMSE = 0.007566 | Avg MAPE = 0.280228
+[Baseline] Ridge = 10 | Avg MAE = 0.006335 | Avg RMSE = 0.007564 | Avg MAPE = 0.280238
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 0.006336 | Avg RMSE = 0.007565 | Avg MAPE = 0.280234
+
+71. System: deepfield.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: deepfield.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 5.819886 | Avg RMSE = 8.056365 | Avg MAPE = 0.618683
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 5.819886 | Avg RMSE = 8.056365 | Avg MAPE = 0.618683
+[Baseline] Ridge = 1.0 | Avg MAE = 5.819461 | Avg RMSE = 8.056460 | Avg MAPE = 0.618403
+[Baseline] Ridge = 10 | Avg MAE = 5.815853 | Avg RMSE = 8.057663 | Avg MAPE = 0.615915
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 5.817273 | Avg RMSE = 8.057097 | Avg MAPE = 0.616921
+
+72. System: enwik8.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: enwik8.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 72.729351 | Avg RMSE = 95.710329 | Avg MAPE = 1.999608
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 72.729351 | Avg RMSE = 95.710329 | Avg MAPE = 1.999608
+[Baseline] Ridge = 1.0 | Avg MAE = 72.720527 | Avg RMSE = 95.709726 | Avg MAPE = 1.998734
+[Baseline] Ridge = 10 | Avg MAE = 72.641706 | Avg RMSE = 95.705972 | Avg MAPE = 1.990912
+[Tuned] Best Ridge = 4.495501 | Avg MAE = 72.689769 | Avg RMSE = 95.707912 | Avg MAPE = 1.995686
+
+73. System: fannie, Dataset: fannie_mae_500k.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 30.285165 | Avg RMSE = 36.208266 | Avg MAPE = 0.901107
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 30.285165 | Avg RMSE = 36.208266 | Avg MAPE = 0.901107
+[Baseline] Ridge = 1.0 | Avg MAE = 30.281558 | Avg RMSE = 36.207754 | Avg MAPE = 0.900692
+[Baseline] Ridge = 10 | Avg MAE = 30.292793 | Avg RMSE = 36.233747 | Avg MAPE = 0.897007
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 30.305380 | Avg RMSE = 36.234474 | Avg MAPE = 0.898454
+
+74. System: large.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: large.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1.870370 | Avg RMSE = 2.316915 | Avg MAPE = 0.428275
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1.870370 | Avg RMSE = 2.316915 | Avg MAPE = 0.428275
+[Baseline] Ridge = 1.0 | Avg MAE = 1.870093 | Avg RMSE = 2.316899 | Avg MAPE = 0.428099
+[Baseline] Ridge = 10 | Avg MAE = 1.867691 | Avg RMSE = 2.316894 | Avg MAPE = 0.426553
+[Tuned] Best Ridge = 1.863395 | Avg MAE = 1.869854 | Avg RMSE = 2.316887 | Avg MAPE = 0.427947
+
+75. System: misc.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: misc.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.088052 | Avg RMSE = 0.118002 | Avg MAPE = 0.225363
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.088052 | Avg RMSE = 0.118002 | Avg MAPE = 0.225363
+[Baseline] Ridge = 1.0 | Avg MAE = 0.088041 | Avg RMSE = 0.118011 | Avg MAPE = 0.225255
+[Baseline] Ridge = 10 | Avg MAE = 0.087944 | Avg RMSE = 0.118096 | Avg MAPE = 0.224307
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 0.087983 | Avg RMSE = 0.118060 | Avg MAPE = 0.224690
+
+76. System: silesia.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: silesia.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 61.868859 | Avg RMSE = 78.091520 | Avg MAPE = 0.949767
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 61.868859 | Avg RMSE = 78.091520 | Avg MAPE = 0.949767
+[Baseline] Ridge = 1.0 | Avg MAE = 61.862321 | Avg RMSE = 78.091841 | Avg MAPE = 0.949385
+[Baseline] Ridge = 10 | Avg MAE = 61.804219 | Avg RMSE = 78.096316 | Avg MAPE = 0.945972
+[Tuned] Best Ridge = 1.537280 | Avg MAE = 61.858813 | Avg RMSE = 78.092029 | Avg MAPE = 0.949180
+
+77. System: uiq-32.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: uiq-32.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 73.686036 | Avg RMSE = 93.871930 | Avg MAPE = 1.216902
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 73.686036 | Avg RMSE = 93.871930 | Avg MAPE = 1.216902
+[Baseline] Ridge = 1.0 | Avg MAE = 73.679029 | Avg RMSE = 93.874022 | Avg MAPE = 1.216340
+[Baseline] Ridge = 10 | Avg MAE = 73.579855 | Avg RMSE = 93.887047 | Avg MAPE = 1.209412
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 73.642027 | Avg RMSE = 93.886541 | Avg MAPE = 1.213360
+
+78. System: uiq2-16.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: uiq2-16.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 32.613486 | Avg RMSE = 43.700396 | Avg MAPE = 1.089194
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 32.613486 | Avg RMSE = 43.700396 | Avg MAPE = 1.089194
+[Baseline] Ridge = 1.0 | Avg MAE = 32.610439 | Avg RMSE = 43.701688 | Avg MAPE = 1.088678
+[Baseline] Ridge = 10 | Avg MAE = 32.583556 | Avg RMSE = 43.714871 | Avg MAPE = 1.084083
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 32.594377 | Avg RMSE = 43.709164 | Avg MAPE = 1.085946
+
+79. System: uiq2-4.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: uiq2-4.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 4.405641 | Avg RMSE = 6.050815 | Avg MAPE = 0.618353
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 4.405641 | Avg RMSE = 6.050815 | Avg MAPE = 0.618353
+[Baseline] Ridge = 1.0 | Avg MAE = 4.404840 | Avg RMSE = 6.051069 | Avg MAPE = 0.617995
+[Baseline] Ridge = 10 | Avg MAE = 4.397870 | Avg RMSE = 6.053667 | Avg MAPE = 0.614828
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 4.400640 | Avg RMSE = 6.052542 | Avg MAPE = 0.616103
+
+80. System: uiq2-8.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: uiq2-8.bin-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 12.300783 | Avg RMSE = 17.369194 | Avg MAPE = 0.828553
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 12.300783 | Avg RMSE = 17.369194 | Avg MAPE = 0.828553
+[Baseline] Ridge = 1.0 | Avg MAE = 12.299157 | Avg RMSE = 17.370113 | Avg MAPE = 0.828124
+[Baseline] Ridge = 10 | Avg MAE = 12.285094 | Avg RMSE = 17.379013 | Avg MAPE = 0.824345
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 12.290722 | Avg RMSE = 17.375251 | Avg MAPE = 0.825868
+
+81. System: vmlinux-5.10.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Dataset: vmlinux-5.10.tar-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 1.919143 | Avg RMSE = 2.322938 | Avg MAPE = 0.290020
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 1.919143 | Avg RMSE = 2.322938 | Avg MAPE = 0.290020
+[Baseline] Ridge = 1.0 | Avg MAE = 1.918930 | Avg RMSE = 2.322945 | Avg MAPE = 0.289893
+[Baseline] Ridge = 10 | Avg MAE = 1.917127 | Avg RMSE = 2.323184 | Avg MAPE = 0.288771
+[Tuned] Best Ridge = 6.330260 | Avg MAE = 1.917843 | Avg RMSE = 2.323049 | Avg MAPE = 0.289224
+
+82. System: AUFNIRA, Dataset: AUFNIRA_z3.637557.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 88.047161 | Avg RMSE = 99.471993 | Avg MAPE = 7.379670
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 88.047161 | Avg RMSE = 99.471993 | Avg MAPE = 7.379670
+[Baseline] Ridge = 1.0 | Avg MAE = 88.049653 | Avg RMSE = 99.473642 | Avg MAPE = 7.369755
+[Baseline] Ridge = 10 | Avg MAE = 88.071542 | Avg RMSE = 99.504512 | Avg MAPE = 7.281726
+[Tuned] Best Ridge = 8.212013 | Avg MAE = 88.067269 | Avg RMSE = 99.496136 | Avg MAPE = 7.299044
+
+83. System: LRA, Dataset: LRA_formula_277.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.318505 | Avg RMSE = 0.323373 | Avg MAPE = 0.111736
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.318505 | Avg RMSE = 0.323373 | Avg MAPE = 0.111736
+[Baseline] Ridge = 1.0 | Avg MAE = 0.318556 | Avg RMSE = 0.323345 | Avg MAPE = 0.111835
+[Baseline] Ridge = 10 | Avg MAE = 0.319027 | Avg RMSE = 0.323610 | Avg MAPE = 0.112776
+[Tuned] Best Ridge = 2.348896 | Avg MAE = 0.318624 | Avg RMSE = 0.323318 | Avg MAPE = 0.111967
+
+84. System: QF, Dataset: QF_AUFBV_891_sqlite3.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 9.806259 | Avg RMSE = 12.639327 | Avg MAPE = 4.947550
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 9.806258 | Avg RMSE = 12.639327 | Avg MAPE = 4.947550
+[Baseline] Ridge = 1.0 | Avg MAE = 9.799178 | Avg RMSE = 12.639405 | Avg MAPE = 4.940671
+[Baseline] Ridge = 10 | Avg MAE = 9.736986 | Avg RMSE = 12.642975 | Avg MAPE = 4.879745
+[Tuned] Best Ridge = 1.424627 | Avg MAE = 9.796178 | Avg RMSE = 12.639458 | Avg MAPE = 4.937756
+
+85. System: QF, Dataset: QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.946680 | Avg RMSE = 1.154674 | Avg MAPE = 0.127168
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.946680 | Avg RMSE = 1.154674 | Avg MAPE = 0.127168
+[Baseline] Ridge = 1.0 | Avg MAE = 0.946026 | Avg RMSE = 1.154834 | Avg MAPE = 0.126804
+[Baseline] Ridge = 10 | Avg MAE = 0.940230 | Avg RMSE = 1.157435 | Avg MAPE = 0.123577
+[Tuned] Best Ridge = 0.000000 | Avg MAE = 0.946680 | Avg RMSE = 1.154674 | Avg MAPE = 0.127168
+
+86. System: QF, Dataset: QF_BV_bench_3176.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 131.108251 | Avg RMSE = 152.441021 | Avg MAPE = 9.395054
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 131.108252 | Avg RMSE = 152.441021 | Avg MAPE = 9.395054
+[Baseline] Ridge = 1.0 | Avg MAE = 131.111896 | Avg RMSE = 152.459394 | Avg MAPE = 9.393131
+[Baseline] Ridge = 10 | Avg MAE = 131.187454 | Avg RMSE = 152.648138 | Avg MAPE = 9.376269
+[Tuned] Best Ridge = 2.323550 | Avg MAE = 131.117928 | Avg RMSE = 152.484533 | Avg MAPE = 9.390600
+
+87. System: QF, Dataset: QF_BV_bench_935.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 92.700263 | Avg RMSE = 96.122026 | Avg MAPE = 16.112345
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 92.700263 | Avg RMSE = 96.122027 | Avg MAPE = 16.112345
+[Baseline] Ridge = 1.0 | Avg MAE = 92.724019 | Avg RMSE = 96.131029 | Avg MAPE = 16.106500
+[Baseline] Ridge = 10 | Avg MAE = 92.934416 | Avg RMSE = 96.230554 | Avg MAPE = 16.054757
+[Tuned] Best Ridge = 2.348896 | Avg MAE = 92.755942 | Avg RMSE = 96.143841 | Avg MAPE = 16.098647
+
+88. System: QF, Dataset: QF_LIA_tightrhombus-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.551865 | Avg RMSE = 0.767019 | Avg MAPE = 0.766138
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.551865 | Avg RMSE = 0.767019 | Avg MAPE = 0.766138
+[Baseline] Ridge = 1.0 | Avg MAE = 0.551899 | Avg RMSE = 0.767005 | Avg MAPE = 0.767425
+[Baseline] Ridge = 10 | Avg MAE = 0.554204 | Avg RMSE = 0.767610 | Avg MAPE = 0.779741
+[Tuned] Best Ridge = 1.424627 | Avg MAE = 0.551920 | Avg RMSE = 0.767004 | Avg MAPE = 0.767976
+
+89. System: QF, Dataset: QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.743861 | Avg RMSE = 0.876391 | Avg MAPE = 0.053685
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.743861 | Avg RMSE = 0.876391 | Avg MAPE = 0.053685
+[Baseline] Ridge = 1.0 | Avg MAE = 0.743821 | Avg RMSE = 0.876255 | Avg MAPE = 0.053792
+[Baseline] Ridge = 10 | Avg MAE = 0.743488 | Avg RMSE = 0.876531 | Avg MAPE = 0.054749
+[Tuned] Best Ridge = 1.035800 | Avg MAE = 0.743820 | Avg RMSE = 0.876250 | Avg MAPE = 0.053796
+
+90. System: QF, Dataset: QF_NRA_hong_9.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.009571 | Avg RMSE = 0.017485 | Avg MAPE = 0.002182
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.009571 | Avg RMSE = 0.017485 | Avg MAPE = 0.002182
+[Baseline] Ridge = 1.0 | Avg MAE = 0.009725 | Avg RMSE = 0.017718 | Avg MAPE = 0.002221
+[Baseline] Ridge = 10 | Avg MAE = 0.020349 | Avg RMSE = 0.025706 | Avg MAPE = 0.004897
+[Tuned] Best Ridge = 0.000000 | Avg MAE = 0.009571 | Avg RMSE = 0.017485 | Avg MAPE = 0.002182
+
+91. System: QF, Dataset: QF_RDL_orb08_888.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 0.271998 | Avg RMSE = 0.340634 | Avg MAPE = 0.029237
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 0.271998 | Avg RMSE = 0.340634 | Avg MAPE = 0.029237
+[Baseline] Ridge = 1.0 | Avg MAE = 0.271389 | Avg RMSE = 0.340695 | Avg MAPE = 0.029148
+[Baseline] Ridge = 10 | Avg MAE = 0.266651 | Avg RMSE = 0.342992 | Avg MAPE = 0.028425
+[Tuned] Best Ridge = 0.000000 | Avg MAE = 0.271998 | Avg RMSE = 0.340634 | Avg MAPE = 0.029237
+
+92. System: QF, Dataset: QF_UFLIA_xs_23_43.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 8.304800 | Avg RMSE = 10.121711 | Avg MAPE = 0.362369
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 8.304800 | Avg RMSE = 10.121711 | Avg MAPE = 0.362369
+[Baseline] Ridge = 1.0 | Avg MAE = 8.302147 | Avg RMSE = 10.122265 | Avg MAPE = 0.362143
+[Baseline] Ridge = 10 | Avg MAE = 8.279204 | Avg RMSE = 10.129572 | Avg MAPE = 0.360144
+[Tuned] Best Ridge = 1.035800 | Avg MAE = 8.302052 | Avg RMSE = 10.122285 | Avg MAPE = 0.362134
+
+93. System: QF, Dataset: QF_UF_PEQ018_size6.smt2-weka.filters.unsupervised.attribute.ReplaceMissingValues, Training data fraction: 0.7, Number of repeats: 3
+[Baseline] Ridge = 1.0e-08 | Avg MAE = 164.661894 | Avg RMSE = 208.145255 | Avg MAPE = 9.478923
+[Baseline] Ridge = 1.0e-05 | Avg MAE = 164.661893 | Avg RMSE = 208.145255 | Avg MAPE = 9.478923
+[Baseline] Ridge = 1.0 | Avg MAE = 164.607973 | Avg RMSE = 208.154648 | Avg MAPE = 9.467225
+[Baseline] Ridge = 10 | Avg MAE = 164.149498 | Avg RMSE = 208.256729 | Avg MAPE = 9.365940
+[Tuned] Best Ridge = 8.212013 | Avg MAE = 164.237417 | Avg RMSE = 208.233999 | Avg MAPE = 9.385410
+

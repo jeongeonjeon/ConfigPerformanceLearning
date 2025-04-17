@@ -26,17 +26,22 @@ public class RandomSearchTuner {
         double bestRidge = low;
         double bestError = Double.MAX_VALUE;
         Random rand = new Random(seed);
+        
+        Instances subsample = new Instances(data);
+        subsample.randomize(rand);
+        subsample = new Instances(subsample, 0, (int)(subsample.numInstances() * 0.7));
 
         for (int i = 0; i < iterations; i++) {
             // Generate a random candidate ridge value between low and high.
-            double candidate = low + (high - low) * rand.nextDouble();
+            // double candidate = low + (high - low) * rand.nextDouble();
+            double candidate = Math.exp(Math.log(low) + (Math.log(high) - Math.log(low)) * rand.nextDouble());
 
             // Build a model using the candidate ridge parameter.
             ConfPerfModel model = new ConfPerfModel(candidate);
-            model.train(data);
+            model.train(subsample);
 
             // Evaluate the model using cross-validation.
-            Evaluation eval = CrossValidator.performCrossValidation(model.getModel(), data, folds, seed);
+            Evaluation eval = CrossValidator.performCrossValidation(model.getModel(), subsample, folds, seed);
             double rmse = eval.rootMeanSquaredError();
 
             // Print candidate details.
@@ -49,7 +54,7 @@ public class RandomSearchTuner {
             }
         }
 
-        System.out.println("Best ridge parameter found: " + bestRidge + " with RMSE = " + bestError + "\n");
+        // System.out.println("Best ridge parameter found: " + bestRidge + " with RMSE = " + bestError);
         return bestRidge;
     }
 }

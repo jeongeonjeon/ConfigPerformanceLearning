@@ -1,5 +1,6 @@
 package uk.ac.bham.configPerformance;
 
+import weka.core.Instance;
 import weka.core.Instances;
 import weka.classifiers.functions.LinearRegression;
 
@@ -45,6 +46,10 @@ public class ConfPerfModel {
 		}
 		return predictions;
 	}
+	
+	public double predict(Instance instance) throws Exception {
+        return model.classifyInstance(instance);
+    }
 
 	// Returns the trained Linear Regression model.
 	public LinearRegression getModel() {    	
